@@ -14,3 +14,19 @@
 * 川菜
 * 打麻将
 * 写代码
+
+## 学过的语言有
+* Python
+```python
+print('Hello world')
+```
+* C++
+```cpp
+cout << 'Hello world' << endl;
+```
+
+## 喜欢的名人有
+* 周杰伦
+![jay](jay.jpeg)
+* 徐艺洋
+![yang](yang.jpeg)
