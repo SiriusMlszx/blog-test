@@ -27,6 +27,8 @@ cout << 'Hello world' << endl;
 
 ## 喜欢的名人有
 * 周杰伦
+
 ![jay](jay.jpeg)
 * 徐艺洋
+
 ![yang](yang.jpeg)
